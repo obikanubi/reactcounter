@@ -1,6 +1,6 @@
 # Counter App
 
-This app uses REact to do a simple demo of components, props and state.
+This app uses React to do a simple demo of components, props and state.
 
 ### Features
 - Welcome component
